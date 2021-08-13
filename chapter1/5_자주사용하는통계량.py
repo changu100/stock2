@@ -73,3 +73,4 @@ plt.plot(x_axis,norm.pdf(x_axis,0,2))
 
 #plt.show()
 
+## 자유도 
