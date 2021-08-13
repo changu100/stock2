@@ -19,3 +19,7 @@ for r in returns:
 
 geomean = geomean**(1/cnt) -1
 print('geoMean is {:.2%}'.format(geomean))
+
+
+
+
